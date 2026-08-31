@@ -35,8 +35,8 @@ Se vires o meu gráfico de contribuições (os quadradinhos verdes aqui em baixo
 ### 📫 Como Falar com o Engenheiro?
 
 Queres dar uma dica de código, falar sobre a 42 ou discutir se o betão é melhor que o `Python`? 
-- **LinkedIn:** [Insere aqui o link do teu LinkedIn]
-- **Email:** [Insere aqui o teu email]
+
+- **LinkedIn:** [Hugo Moura](https://linkedin.com)
 
 ---
 
