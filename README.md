@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="[assets/banner.gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b6b37973-4ac2-415f-b90d-b4a1677c15e8/dgsm9sc-bc80bb2c-608c-40e8-8a58-63d3a968191e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iNmIzNzk3My00YWMyLTQxNWYtYjkwZC1iNGExNjc3YzE1ZTgvZGdzbTlzYy1iYzgwYmIyYy02MDhjLTQwZTgtOGE1OC02M2QzYTk2ODE5MWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7ZT3AIT-wfz1_T17SoeTb0b08VK4B_AiJ0WTHfpeM6o)" alt="Retro Coding Banner" width="100%">
+</p>
+
+
+
 # 🏗️ De Engenheiro Civil a Mestre do Código: A Grande Conversão!
 
 Olá, mundo! 🌍 Bem-vindos ao meu estaleiro digital. 
